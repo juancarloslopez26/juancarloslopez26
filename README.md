@@ -19,13 +19,13 @@ Aunque no soy el propietario principal de algunos de estos repositorios, he sido
   * Optimicé el tiempo de carga del frontend en un 20%.
 * **Tecnologías usadas:** Node.js, React, PostgreSQL.
 
-###  [Nombre del Proyecto 2](Enlace_al_repositorio_de_tu_amigo)
-* **Descripción:** Plataforma de comercio electrónico para negocios locales.
+###  [BibliotecaApi](https://github.com/OsvaldoMrn/BibliotecaApi)
+* **Descripción:** Este proyecto es un sistema de gestión para bibliotecas universitarias. Permite a los usuarios consultar, reservar y gestionar préstamos de libros, y a los administradores controlar el inventario y generar reportes.
 * **Mi Rol y Contribuciones:**
-  * Integré la API de pagos (Stripe/PayPal) de forma segura.
-  * Creé los componentes interactivos del carrito de compras.
-  * Resolví bugs críticos en el despliegue de producción.
-* **Tecnologías usadas:** Next.js, Tailwind CSS, Stripe API.
+  * Desarrolle el endpoints para agregar libros
+  * Desarrole el enspoint para borrar libros
+  * Desarrole el endpoint para actualizar los libros
+* **Tecnologías usadas:** Node.js.
 
 ##  Cómo contactarme
 * **LinkedIn:** https://www.linkedin.com/in/juan-carlos-lopez-ojeda-436116247/
