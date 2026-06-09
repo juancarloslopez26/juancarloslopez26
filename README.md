@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola! Soy Juan Carlos Lopez Ojeda 👋
 
-<!--
-**juancarloslopez26/juancarloslopez26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador Fullstack apasionado por crear soluciones eficientes y trabajar en equipo.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y Herramientas
+* **Lenguajes:** JavaScript, Python, TypeScript
+* **Frameworks/Libs:** React, Node.js, Express
+* **Herramientas:** Git, GitHub, Docker, SQL, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos y Colaboraciones Destacadas
+
+Aunque no soy el propietario principal de algunos de estos repositorios, he sido colaborador clave en su desarrollo técnico:
+
+### 📱 [Nombre del Proyecto 1](Enlace_al_repositorio_de_tu_amigo)
+* **Descripción:** Una aplicación web para la gestión de tareas locales en tiempo real.
+* **Mi Rol y Contribuciones:**
+  * Diseñé e implementé la arquitectura de la base de datos (PostgreSQL).
+  * Desarrollé los endpoints de autenticación de usuarios usando JWT.
+  * Optimicé el tiempo de carga del frontend en un 20%.
+* **Tecnologías usadas:** Node.js, React, PostgreSQL.
+
+### 🌐 [Nombre del Proyecto 2](Enlace_al_repositorio_de_tu_amigo)
+* **Descripción:** Plataforma de comercio electrónico para negocios locales.
+* **Mi Rol y Contribuciones:**
+  * Integré la API de pagos (Stripe/PayPal) de forma segura.
+  * Creé los componentes interactivos del carrito de compras.
+  * Resolví bugs críticos en el despliegue de producción.
+* **Tecnologías usadas:** Next.js, Tailwind CSS, Stripe API.
+
+## 📫 Cómo contactarme
+* **LinkedIn:** [enlace-a-tu-perfil]
+* **Correo:** tu-email@ejemplo.com
